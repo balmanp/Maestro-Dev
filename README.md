@@ -1,6 +1,6 @@
-# Android Automation Test with Maestro
+# Maestro Dev
 
-This repository contains the Android automation tests using [Maestro](https://maestro.mobile.dev/), a powerful testing framework for Android applications.
+This repository contains the Android automation tests using Maestro.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -8,6 +8,7 @@ This repository contains the Android automation tests using [Maestro](https://ma
 - [Installation](#installation)
 - [Running Tests](#running-tests)
 - [Project Structure](#project-structure)
+- [Watch the Video](#watch-the-video)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -21,7 +22,7 @@ Make sure you have the following installed on your machine:
 - Java Development Kit (JDK)
 - Android SDK
 - Maestro
-- Download APK https://github.com/saucelabs/sample-app-mobile/releases
+
 ### Installation
 
 1. Clone the repository:
@@ -42,8 +43,26 @@ Make sure you have the following installed on your machine:
     ```sh
     maestro test path/to/your/testcases
     ```
-Capture :
-![image](https://github.com/balmanp/Maestro-Dev/assets/114126470/87fa3961-e72d-49ef-ae4d-2e6eba122e11)
 
 ## Project Structure
 
+- `maestro/`: Directory containing Maestro test cases.
+- `screenshots/`: Directory to store screenshots taken during tests.
+
+## Watch the Video
+
+[![Watch the video](https://img.youtube.com/vi/bJM-6aAZuok/0.jpg)](https://youtu.be/bJM-6aAZuok)
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to be. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
