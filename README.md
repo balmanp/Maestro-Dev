@@ -21,7 +21,7 @@ Make sure you have the following installed on your machine:
 - Java Development Kit (JDK)
 - Android SDK
 - Maestro
-
+- Download APK https://github.com/saucelabs/sample-app-mobile/releases
 ### Installation
 
 1. Clone the repository:
