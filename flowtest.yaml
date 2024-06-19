@@ -1,0 +1,17 @@
+
+appId: com.saucelabs.mydemoapp.rn
+---
+- launchApp
+- tapOn: "open menu"
+- tapOn: "menu item log in"
+- tapOn: "Username input field"
+- hideKeyboard
+- inputText: "bob@example.com"
+- tapOn: "Password input field"
+- inputText: "10203040"
+- hideKeyboard
+- assertVisible: Login button
+- tapOn: Login button
+- assertVisible: Products
+
+    
