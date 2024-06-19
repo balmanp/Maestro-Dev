@@ -42,6 +42,8 @@ Make sure you have the following installed on your machine:
     ```sh
     maestro test path/to/your/testcases
     ```
+Capture :
+![image](https://github.com/balmanp/Maestro-Dev/assets/114126470/87fa3961-e72d-49ef-ae4d-2e6eba122e11)
 
 ## Project Structure
 
