@@ -50,8 +50,7 @@ Make sure you have the following installed on your machine:
 - `screenshots/`: Directory to store screenshots taken during tests.
 
 ## Watch the Video
-
-[![Watch the video](https://img.youtube.com/vi/bJM-6aAZuok/0.jpg)](https://youtu.be/bJM-6aAZuok)
+https://www.youtube.com/watch?v=4jpIqhI5kJM
 
 
 
