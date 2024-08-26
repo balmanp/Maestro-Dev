@@ -51,9 +51,6 @@ Make sure you have the following installed on your machine:
 
 ## Watch the Video
 ![Demo Aplikasi](source/gif/maestro-record.gif)
-https://www.youtube.com/watch?v=4jpIqhI5kJM
-
-
 
 ## License
 
