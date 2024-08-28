@@ -8,7 +8,7 @@ appId: com.saucelabs.mydemoapp.rn
 - hideKeyboard
 - inputText: "bob@example.com"
 - tapOn: "Password input field"
-- inputText: "10203050"
+- inputText: "10203040"
 - hideKeyboard
 - assertVisible: Login button
 - tapOn: Login button
